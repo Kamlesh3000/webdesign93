@@ -1,0 +1,40 @@
+.banner_contact {
+  background-image: url("../img/cowin_aboutus.jpg");
+  background-repeat: no-repeat;
+  height: 400px;
+  margin: 10px 10px;
+  background-size: cover;
+}
+.contacts h2,
+h3 {
+  text-align: center;
+}
+.form-group {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 20px;
+  color: darkgreen;
+  margin-bottom: 1.5rem;
+  margin-top: 1rem;
+}
+.write_to_us {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  letter-spacing: o.7px;
+  font-weight: bold;
+}
+#formborder {
+  height: 315px;
+}
+.field1 {
+  position: relative;
+  left: 10px;
+}
+.field2 {
+  position: relative;
+  left: 28px;
+}
+.textareamsg {
+  position: relative;
+  bottom: 45px;
+}

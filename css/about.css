@@ -1,0 +1,32 @@
+.banner_about {
+  background-image: url("../img/about_banner.jpg");
+  height: 400px;
+  margin: 10px 10px;
+  background-size: cover;
+}
+.faq h2 {
+  color: blue;
+}
+.faq p {
+  background-color: rgb(232, 238, 240);
+  height: 22px;
+  color: black;
+  font-weight: bold;
+}
+#media {
+  margin: 10px 0;
+}
+.faq span {
+  text-align: center;
+}
+.download {
+  text-align: center;
+  background-color: none;
+}
+.about {
+  font-size: 20px;
+  font-weight: bold;
+  color: green;
+  font-family: "Times New Roman", Times, serif;
+  letter-spacing: 0.5px;
+}

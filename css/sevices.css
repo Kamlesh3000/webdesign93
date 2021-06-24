@@ -1,0 +1,12 @@
+.banner_services {
+  background-image: url("../img/cowin_services.jpg");
+  height: 400px;
+  margin: 10px 10px;
+  background-size: cover;
+}
+.service {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(1, 75, 1);
+  font-family: "Courier New", Courier, monospace;
+}
